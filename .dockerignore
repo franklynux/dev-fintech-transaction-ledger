@@ -1,0 +1,39 @@
+# Build outputs
+target/
+build/
+out/
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Git
+.git/
+.gitignore
+
+# Environment files
+.env
+.env.local
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Docker compose overrides
+docker-compose.override.yml
+
+# Node modules (if any)
+node_modules/
+geraldoti@MacBookPro testapp % 
+
